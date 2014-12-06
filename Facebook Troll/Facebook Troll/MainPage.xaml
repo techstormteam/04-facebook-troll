@@ -17,6 +17,10 @@
     <Grid x:Name="LayoutRoot" Background="Transparent">
         <ProgressBar x:Name="progressBar" VerticalAlignment="Top" IsIndeterminate="True" Visibility="Collapsed" />
         <phone:WebBrowser Navigated="WebBrowser_Navigated" IsScriptEnabled="True" Name="webBrowser" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" />
+        <StackPanel VerticalAlignment="Bottom">
+            <Grid x:Name="banner" />
+            <Grid x:Name="banner1" VerticalAlignment="Bottom" />
+        </StackPanel>
     </Grid>
 
     <phone:PhoneApplicationPage.ApplicationBar>

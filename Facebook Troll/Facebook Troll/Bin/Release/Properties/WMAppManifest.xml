@@ -5,7 +5,7 @@
     <Language code="vi-VN" />
     <Language code="vi" />
   </Languages>
-  <App xmlns="" ProductID="{223d52a1-8f2c-4821-a1f1-0412af928415}" Title="Facebook Troll" RuntimeType="Silverlight" Version="1.0.0.0" Genre="apps.normal" Author="Tech Storm" Description="Đây là ứng dụng facebook hàng đầu dành cho mọi người, sau những giờ học tập làm việc căng thẳng bạn có thể mở ứng dụng này ra để chat chít, post hình, ghi status,... Ứng dụng này có đầy đủ các tính năng giúp bạn có thể làm bất kì điều gì bạn thích." Publisher="Tech Storm" PublisherID="{543dd6c3-f297-49ab-8f6c-fce33d8dec50}">
+  <App xmlns="" ProductID="{223d52a1-8f2c-4821-a1f1-0412af928415}" Title="Facebook Troll 2015" RuntimeType="Silverlight" Version="1.0.0.0" Genre="apps.normal" Author="Tech Storm" Description="Đây là ứng dụng facebook hàng đầu dành cho mọi người, sau những giờ học tập làm việc căng thẳng bạn có thể mở ứng dụng này ra để chat chít, post hình, ghi status,... Ứng dụng này có đầy đủ các tính năng giúp bạn có thể làm bất kì điều gì bạn thích." Publisher="Tech Storm" PublisherID="{543dd6c3-f297-49ab-8f6c-fce33d8dec50}">
     <IconPath IsRelative="true" IsResource="false">Assets\Images\app.icon.png</IconPath>
     <Capabilities>
       <Capability Name="ID_CAP_NETWORKING" />
@@ -23,7 +23,7 @@
           <SmallImageURI IsRelative="true" IsResource="false">Assets\Images\app.icon.png</SmallImageURI>
           <Count>0</Count>
           <BackgroundImageURI IsRelative="true" IsResource="false">Assets\Images\app.icon.png</BackgroundImageURI>
-          <Title>Facebook Troll</Title>
+          <Title>Facebook Troll 2015</Title>
           <BackContent></BackContent>
           <BackBackgroundImageURI></BackBackgroundImageURI>
           <BackTitle></BackTitle>

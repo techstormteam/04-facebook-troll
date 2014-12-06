@@ -26,3 +26,34 @@ C:\Users\Thien\documents\visual studio 2012\Projects\Facebook Troll\Facebook Tro
 C:\Users\Thien\documents\visual studio 2012\Projects\Facebook Troll\Facebook Troll\obj\Release\Facebook Troll.dll
 C:\Users\Thien\documents\visual studio 2012\Projects\Facebook Troll\Facebook Troll\obj\Release\Facebook Troll.pdb
 C:\Users\Thien\documents\visual studio 2012\Projects\Facebook Troll\Facebook Troll\obj\Release\XapCacheFile.xml
+E:\Programming\sourcecode\vs2012\04-facebook-troll\Facebook Troll\Facebook Troll\Bin\Release\Assets\ApplicationIcon.png
+E:\Programming\sourcecode\vs2012\04-facebook-troll\Facebook Troll\Facebook Troll\Bin\Release\Assets\Tiles\FlipCycleTileLarge.png
+E:\Programming\sourcecode\vs2012\04-facebook-troll\Facebook Troll\Facebook Troll\Bin\Release\Assets\Tiles\FlipCycleTileMedium.png
+E:\Programming\sourcecode\vs2012\04-facebook-troll\Facebook Troll\Facebook Troll\Bin\Release\Assets\Tiles\FlipCycleTileSmall.png
+E:\Programming\sourcecode\vs2012\04-facebook-troll\Facebook Troll\Facebook Troll\Bin\Release\Assets\Tiles\IconicTileMediumLarge.png
+E:\Programming\sourcecode\vs2012\04-facebook-troll\Facebook Troll\Facebook Troll\Bin\Release\Assets\Tiles\IconicTileSmall.png
+E:\Programming\sourcecode\vs2012\04-facebook-troll\Facebook Troll\Facebook Troll\Bin\Release\Facebook Troll.dll
+E:\Programming\sourcecode\vs2012\04-facebook-troll\Facebook Troll\Facebook Troll\Bin\Release\Facebook Troll.pdb
+E:\Programming\sourcecode\vs2012\04-facebook-troll\Facebook Troll\Facebook Troll\Bin\Release\vi-VN\Facebook Troll.resources.dll
+E:\Programming\sourcecode\vs2012\04-facebook-troll\Facebook Troll\Facebook Troll\Bin\Release\vi\Facebook Troll.resources.dll
+E:\Programming\sourcecode\vs2012\04-facebook-troll\Facebook Troll\Facebook Troll\Bin\Release\AppManifest.xaml
+E:\Programming\sourcecode\vs2012\04-facebook-troll\Facebook Troll\Facebook Troll\Bin\Release\Properties\WMAppManifest.xml
+E:\Programming\sourcecode\vs2012\04-facebook-troll\Facebook Troll\Facebook Troll\Bin\Release\Facebook_Troll_Release_AnyCPU.xap
+E:\Programming\sourcecode\vs2012\04-facebook-troll\Facebook Troll\Facebook Troll\Bin\Release\GoogleAds.dll
+E:\Programming\sourcecode\vs2012\04-facebook-troll\Facebook Troll\Facebook Troll\Bin\Release\Inneractive.Ad.dll
+E:\Programming\sourcecode\vs2012\04-facebook-troll\Facebook Troll\Facebook Troll\Bin\Release\SOMAWP8.dll
+E:\Programming\sourcecode\vs2012\04-facebook-troll\Facebook Troll\Facebook Troll\Bin\Release\GoogleAds.xml
+E:\Programming\sourcecode\vs2012\04-facebook-troll\Facebook Troll\Facebook Troll\obj\Release\Facebook Troll.csprojResolveAssemblyReference.cache
+E:\Programming\sourcecode\vs2012\04-facebook-troll\Facebook Troll\Facebook Troll\obj\Release\App.g.cs
+E:\Programming\sourcecode\vs2012\04-facebook-troll\Facebook Troll\Facebook Troll\obj\Release\MainPage.g.cs
+E:\Programming\sourcecode\vs2012\04-facebook-troll\Facebook Troll\Facebook Troll\obj\Release\Views\PageAboutUs.g.cs
+E:\Programming\sourcecode\vs2012\04-facebook-troll\Facebook Troll\Facebook Troll\obj\Release\Facebook Troll.g.resources
+E:\Programming\sourcecode\vs2012\04-facebook-troll\Facebook Troll\Facebook Troll\obj\Release\Facebook_Troll.Resources.AppResources.resources
+E:\Programming\sourcecode\vs2012\04-facebook-troll\Facebook Troll\Facebook Troll\obj\Release\Facebook_Troll.Resources.AppResources.vi-VN.resources
+E:\Programming\sourcecode\vs2012\04-facebook-troll\Facebook Troll\Facebook Troll\obj\Release\Facebook_Troll.Resources.AppResources.vi.resources
+E:\Programming\sourcecode\vs2012\04-facebook-troll\Facebook Troll\Facebook Troll\obj\Release\Facebook Troll.csproj.GenerateResource.Cache
+E:\Programming\sourcecode\vs2012\04-facebook-troll\Facebook Troll\Facebook Troll\obj\Release\vi-VN\Facebook Troll.resources.dll
+E:\Programming\sourcecode\vs2012\04-facebook-troll\Facebook Troll\Facebook Troll\obj\Release\vi\Facebook Troll.resources.dll
+E:\Programming\sourcecode\vs2012\04-facebook-troll\Facebook Troll\Facebook Troll\obj\Release\Facebook Troll.dll
+E:\Programming\sourcecode\vs2012\04-facebook-troll\Facebook Troll\Facebook Troll\obj\Release\Facebook Troll.pdb
+E:\Programming\sourcecode\vs2012\04-facebook-troll\Facebook Troll\Facebook Troll\obj\Release\XapCacheFile.xml

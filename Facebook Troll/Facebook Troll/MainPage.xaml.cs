@@ -10,12 +10,13 @@ using Microsoft.Phone.Shell;
 using Facebook_Troll.Resources;
 using Utility;
 using Utility.InneractiveNokiaAd;
+using KaraokeList2016.Utility.GoogleAd;
 
 namespace Facebook_Troll
 {
     public partial class MainPage : PhoneApplicationPage
     {
-        private static string homeUrl = "https://www.facebook.com/";
+        private static string homeUrl = "https://m.facebook.com/";
         private static string messageUrl = "https://m.facebook.com/messages/";
         private static string friendUrl = "https://m.facebook.com/friends/center/requests/?mff_nav=1";
         private static string notificationUrl = "https://m.facebook.com/notifications.php?more";
@@ -41,7 +42,9 @@ namespace Facebook_Troll
             webBrowser.Navigate(new Uri(homeUrl, UriKind.Absolute));
             if (App.NeedShowAd)
             {
-                InneractiveAdHelper.DisplayInterstitial(LayoutRoot);
+                //InneractiveAdHelper.DisplayInterstitial(LayoutRoot);
+                GoogleAdHelper.DisplayBanner(banner, "ca-app-pub-7278887713829891/4420970760");
+                GoogleAdHelper.DisplayBanner(banner1, "ca-app-pub-7278887713829891/5897703960");
                 App.NeedShowAd = false;
             }
         }
